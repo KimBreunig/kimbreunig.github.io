@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+  <link href="styles/style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>My test page</title>
+  </head>
+  <body>
+  <h1>in coffees</h1>
+  <h2>por pgiordaani</h3>
+  <h3>publicitária</h4>
+    <img src="images\in-coffees-logo -png.png" alt="in coffees logo" />
+    <p>Aqui tu vai ver dicas de cafés & cafeterias de uma publicitária que ama visitar esses lugares</p>
+  <p>Este site contém:</p>
+  <ul>
+  <li>cafeterias</li>
+  <li>cafés</li>
+  <li>doces</li>
+  <li>paisagens</li>
+  <li>e muito mais</li>
+  <p>estou no insta:</p>
+  <a href = "https://www.instagram.com/pgiordaani/">@pgiordaani</a>
+  <button>Change user</button>
+  <script src="scripts/main.js"></script>
+  </body>
+</html>
